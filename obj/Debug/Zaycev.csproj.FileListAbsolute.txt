@@ -1,0 +1,200 @@
+C:\Users\Студент МПТ\source\repos\Zaycev\bin\Debug\zayDB.mdb
+C:\Users\Студент МПТ\source\repos\Zaycev\bin\Debug\Zaycev.exe.config
+C:\Users\Студент МПТ\source\repos\Zaycev\bin\Debug\Zaycev.exe
+C:\Users\Студент МПТ\source\repos\Zaycev\bin\Debug\Zaycev.pdb
+C:\Users\Студент МПТ\source\repos\Zaycev\obj\Debug\Zaycev.csprojAssemblyReference.cache
+C:\Users\Студент МПТ\source\repos\Zaycev\obj\Debug\Zaycev.AddForm.resources
+C:\Users\Студент МПТ\source\repos\Zaycev\obj\Debug\Zaycev.Form1.resources
+C:\Users\Студент МПТ\source\repos\Zaycev\obj\Debug\Zaycev.Properties.Resources.resources
+C:\Users\Студент МПТ\source\repos\Zaycev\obj\Debug\Zaycev.csproj.GenerateResource.cache
+C:\Users\Студент МПТ\source\repos\Zaycev\obj\Debug\Zaycev.csproj.CoreCompileInputs.cache
+C:\Users\Студент МПТ\source\repos\Zaycev\obj\Debug\Zaycev.exe
+C:\Users\Студент МПТ\source\repos\Zaycev\obj\Debug\Zaycev.pdb
+C:\Users\Студент МПТ\source\repos\Zaycev\obj\Debug\Zaycev.SearchForm.resources
+C:\Users\Студент МПТ\Downloads\Zaycev\Zaycev\bin\Debug\zayDB.mdb
+C:\Users\Студент МПТ\Downloads\Zaycev\Zaycev\bin\Debug\Zaycev.exe.config
+C:\Users\Студент МПТ\Downloads\Zaycev\Zaycev\bin\Debug\Zaycev.exe
+C:\Users\Студент МПТ\Downloads\Zaycev\Zaycev\bin\Debug\Zaycev.pdb
+C:\Users\Студент МПТ\Downloads\Zaycev\Zaycev\obj\Debug\Zaycev.csprojAssemblyReference.cache
+C:\Users\Студент МПТ\Downloads\Zaycev\Zaycev\obj\Debug\Zaycev.AddForm.resources
+C:\Users\Студент МПТ\Downloads\Zaycev\Zaycev\obj\Debug\Zaycev.Form1.resources
+C:\Users\Студент МПТ\Downloads\Zaycev\Zaycev\obj\Debug\Zaycev.Form2.resources
+C:\Users\Студент МПТ\Downloads\Zaycev\Zaycev\obj\Debug\Zaycev.Properties.Resources.resources
+C:\Users\Студент МПТ\Downloads\Zaycev\Zaycev\obj\Debug\Zaycev.SearchForm.resources
+C:\Users\Студент МПТ\Downloads\Zaycev\Zaycev\obj\Debug\Zaycev.csproj.GenerateResource.cache
+C:\Users\Студент МПТ\Downloads\Zaycev\Zaycev\obj\Debug\Zaycev.csproj.CoreCompileInputs.cache
+C:\Users\Студент МПТ\Downloads\Zaycev\Zaycev\obj\Debug\Zaycev.exe
+C:\Users\Студент МПТ\Downloads\Zaycev\Zaycev\obj\Debug\Zaycev.pdb
+C:\Users\Студент МПТ\Downloads\Zaycev\Zaycev\obj\Debug\Zaycev.AddForm3.resources
+C:\Users\Студент МПТ\Downloads\Zaycev\Zaycev\obj\Debug\Zaycev.SearchForm3.resources
+C:\Users\Студент МПТ\Downloads\Zaycev\Zaycev\bin\Debug\zayDBDataSet.Designer.cs
+C:\Users\Студент МПТ\Downloads\Zaycev\Zaycev\bin\Debug\zayDBDataSet.xsc
+C:\Users\Студент МПТ\Downloads\Zaycev\Zaycev\bin\Debug\zayDBDataSet.xsd
+C:\Users\Студент МПТ\Downloads\Zaycev\Zaycev\bin\Debug\zayDBDataSet.xss
+C:\Users\Студент МПТ\Downloads\Zaycev\Zaycev\obj\Debug\Zaycev.AddForm4.resources
+C:\Users\Студент МПТ\Downloads\Zaycev\Zaycev\obj\Debug\Zaycev.Form4.resources
+C:\Users\Студент МПТ\Downloads\Zaycev\Zaycev\obj\Debug\Zaycev.SearchForm4.resources
+C:\Users\Сенька\Desktop\Zaycev\bin\Debug\zayDB.mdb
+C:\Users\Сенька\Desktop\Zaycev\bin\Debug\zayDBDataSet.Designer.cs
+C:\Users\Сенька\Desktop\Zaycev\bin\Debug\zayDBDataSet.xsc
+C:\Users\Сенька\Desktop\Zaycev\bin\Debug\zayDBDataSet.xsd
+C:\Users\Сенька\Desktop\Zaycev\bin\Debug\zayDBDataSet.xss
+C:\Users\Сенька\Desktop\Zaycev\bin\Debug\Zaycev.exe.config
+C:\Users\Сенька\Desktop\Zaycev\bin\Debug\Zaycev.exe
+C:\Users\Сенька\Desktop\Zaycev\bin\Debug\Zaycev.pdb
+C:\Users\Сенька\Desktop\Zaycev\obj\Debug\Zaycev.csproj.AssemblyReference.cache
+C:\Users\Сенька\Desktop\Zaycev\obj\Debug\Zaycev.AddForm.resources
+C:\Users\Сенька\Desktop\Zaycev\obj\Debug\Zaycev.AddForm3.resources
+C:\Users\Сенька\Desktop\Zaycev\obj\Debug\Zaycev.AddForm4.resources
+C:\Users\Сенька\Desktop\Zaycev\obj\Debug\Zaycev.Form1.resources
+C:\Users\Сенька\Desktop\Zaycev\obj\Debug\Zaycev.Form2.resources
+C:\Users\Сенька\Desktop\Zaycev\obj\Debug\Zaycev.Form4.resources
+C:\Users\Сенька\Desktop\Zaycev\obj\Debug\Zaycev.Properties.Resources.resources
+C:\Users\Сенька\Desktop\Zaycev\obj\Debug\Zaycev.SearchForm.resources
+C:\Users\Сенька\Desktop\Zaycev\obj\Debug\Zaycev.SearchForm3.resources
+C:\Users\Сенька\Desktop\Zaycev\obj\Debug\Zaycev.SearchForm4.resources
+C:\Users\Сенька\Desktop\Zaycev\obj\Debug\Zaycev.csproj.GenerateResource.cache
+C:\Users\Сенька\Desktop\Zaycev\obj\Debug\Zaycev.csproj.CoreCompileInputs.cache
+C:\Users\Сенька\Desktop\Zaycev\obj\Debug\Zaycev.exe
+C:\Users\Сенька\Desktop\Zaycev\obj\Debug\Zaycev.pdb
+C:\Users\Сенька\Desktop\Zaycev\obj\Debug\Zaycev.Form5.resources
+C:\Users\Сенька\Desktop\Zaycev\obj\Debug\Zaycev.Form6.resources
+C:\Users\Сенька\Desktop\Zaycev\obj\Debug\Zaycev.AddForm6.resources
+C:\Users\Сенька\Desktop\Zaycev\obj\Debug\Zaycev.AddForm7.resources
+C:\Users\Сенька\Desktop\Zaycev\obj\Debug\Zaycev.SearchForm6.resources
+C:\Users\Сенька\Desktop\Zaycev\obj\Debug\Zaycev.SearchForm7.resources
+C:\Users\Сенька\Desktop\Zaycev\obj\Debug\Zaycev.AddForm8.resources
+C:\Users\Сенька\Desktop\Zaycev\obj\Debug\Zaycev.Form7.resources
+C:\Users\Сенька\Desktop\Zaycev\obj\Debug\Zaycev.SearchForm8.resources
+C:\Users\Студент МПТ\Documents\Zaycev\bin\Debug\zayDB.mdb
+C:\Users\Студент МПТ\Documents\Zaycev\bin\Debug\zayDBDataSet.Designer.cs
+C:\Users\Студент МПТ\Documents\Zaycev\bin\Debug\zayDBDataSet.xsc
+C:\Users\Студент МПТ\Documents\Zaycev\bin\Debug\zayDBDataSet.xsd
+C:\Users\Студент МПТ\Documents\Zaycev\bin\Debug\zayDBDataSet.xss
+C:\Users\Студент МПТ\Documents\Zaycev\bin\Debug\Zaycev.exe.config
+C:\Users\Студент МПТ\Documents\Zaycev\bin\Debug\Zaycev.exe
+C:\Users\Студент МПТ\Documents\Zaycev\bin\Debug\Zaycev.pdb
+C:\Users\Студент МПТ\Documents\Zaycev\obj\Debug\Zaycev.csprojAssemblyReference.cache
+C:\Users\Студент МПТ\Documents\Zaycev\obj\Debug\Zaycev.AddForm.resources
+C:\Users\Студент МПТ\Documents\Zaycev\obj\Debug\Zaycev.AddForm3.resources
+C:\Users\Студент МПТ\Documents\Zaycev\obj\Debug\Zaycev.AddForm4.resources
+C:\Users\Студент МПТ\Documents\Zaycev\obj\Debug\Zaycev.AddForm6.resources
+C:\Users\Студент МПТ\Documents\Zaycev\obj\Debug\Zaycev.AddForm7.resources
+C:\Users\Студент МПТ\Documents\Zaycev\obj\Debug\Zaycev.AddForm8.resources
+C:\Users\Студент МПТ\Documents\Zaycev\obj\Debug\Zaycev.Form1.resources
+C:\Users\Студент МПТ\Documents\Zaycev\obj\Debug\Zaycev.Form2.resources
+C:\Users\Студент МПТ\Documents\Zaycev\obj\Debug\Zaycev.Form4.resources
+C:\Users\Студент МПТ\Documents\Zaycev\obj\Debug\Zaycev.Form5.resources
+C:\Users\Студент МПТ\Documents\Zaycev\obj\Debug\Zaycev.Form6.resources
+C:\Users\Студент МПТ\Documents\Zaycev\obj\Debug\Zaycev.Form7.resources
+C:\Users\Студент МПТ\Documents\Zaycev\obj\Debug\Zaycev.Properties.Resources.resources
+C:\Users\Студент МПТ\Documents\Zaycev\obj\Debug\Zaycev.SearchForm.resources
+C:\Users\Студент МПТ\Documents\Zaycev\obj\Debug\Zaycev.SearchForm3.resources
+C:\Users\Студент МПТ\Documents\Zaycev\obj\Debug\Zaycev.SearchForm4.resources
+C:\Users\Студент МПТ\Documents\Zaycev\obj\Debug\Zaycev.SearchForm6.resources
+C:\Users\Студент МПТ\Documents\Zaycev\obj\Debug\Zaycev.SearchForm7.resources
+C:\Users\Студент МПТ\Documents\Zaycev\obj\Debug\Zaycev.SearchForm8.resources
+C:\Users\Студент МПТ\Documents\Zaycev\obj\Debug\Zaycev.csproj.GenerateResource.cache
+C:\Users\Студент МПТ\Documents\Zaycev\obj\Debug\Zaycev.csproj.CoreCompileInputs.cache
+C:\Users\Студент МПТ\Documents\Zaycev\obj\Debug\Zaycev.exe
+C:\Users\Студент МПТ\Documents\Zaycev\obj\Debug\Zaycev.pdb
+C:\Users\Студент МПТ\Documents\Zaycev\obj\Debug\Zaycev.AddForm9.resources
+C:\Users\Студент МПТ\Documents\Zaycev\obj\Debug\Zaycev.Form9.resources
+C:\Users\Студент МПТ\Documents\Zaycev\obj\Debug\Zaycev.SearchForm9.resources
+C:\Users\Студент МПТ\Documents\Zaycev\obj\Debug\Zaycev.Addform11.resources
+C:\Users\Студент МПТ\Documents\Zaycev\obj\Debug\Zaycev.AddForm12.resources
+C:\Users\Студент МПТ\Documents\Zaycev\obj\Debug\Zaycev.AddForm13.resources
+C:\Users\Студент МПТ\Documents\Zaycev\obj\Debug\Zaycev.SearchForm11.resources
+C:\Users\Студент МПТ\Documents\Zaycev\obj\Debug\Zaycev.SearchForm12.resources
+C:\Users\Студент МПТ\Documents\Zaycev\obj\Debug\Zaycev.SearchForm13.resources
+C:\Users\Студент МПТ\Documents\Zaycev\obj\Debug\Zaycev.AddForm14.resources
+E:\Документы\Zaycev\bin\Debug\zayDB.mdb
+E:\Документы\Zaycev\bin\Debug\zayDBDataSet.Designer.cs
+E:\Документы\Zaycev\bin\Debug\zayDBDataSet.xsc
+E:\Документы\Zaycev\bin\Debug\zayDBDataSet.xsd
+E:\Документы\Zaycev\bin\Debug\zayDBDataSet.xss
+E:\Документы\Zaycev\bin\Debug\Zaycev.exe.config
+E:\Документы\Zaycev\bin\Debug\Zaycev.exe
+E:\Документы\Zaycev\bin\Debug\Zaycev.pdb
+E:\Документы\Zaycev\obj\Debug\Zaycev.csproj.AssemblyReference.cache
+E:\Документы\Zaycev\obj\Debug\Zaycev.AddForm.resources
+E:\Документы\Zaycev\obj\Debug\Zaycev.Addform11.resources
+E:\Документы\Zaycev\obj\Debug\Zaycev.AddForm12.resources
+E:\Документы\Zaycev\obj\Debug\Zaycev.AddForm13.resources
+E:\Документы\Zaycev\obj\Debug\Zaycev.AddForm14.resources
+E:\Документы\Zaycev\obj\Debug\Zaycev.AddForm3.resources
+E:\Документы\Zaycev\obj\Debug\Zaycev.AddForm4.resources
+E:\Документы\Zaycev\obj\Debug\Zaycev.AddForm6.resources
+E:\Документы\Zaycev\obj\Debug\Zaycev.AddForm7.resources
+E:\Документы\Zaycev\obj\Debug\Zaycev.AddForm8.resources
+E:\Документы\Zaycev\obj\Debug\Zaycev.AddForm9.resources
+E:\Документы\Zaycev\obj\Debug\Zaycev.Form1.resources
+E:\Документы\Zaycev\obj\Debug\Zaycev.Form2.resources
+E:\Документы\Zaycev\obj\Debug\Zaycev.Form4.resources
+E:\Документы\Zaycev\obj\Debug\Zaycev.Form5.resources
+E:\Документы\Zaycev\obj\Debug\Zaycev.Form6.resources
+E:\Документы\Zaycev\obj\Debug\Zaycev.Form7.resources
+E:\Документы\Zaycev\obj\Debug\Zaycev.Form9.resources
+E:\Документы\Zaycev\obj\Debug\Zaycev.Properties.Resources.resources
+E:\Документы\Zaycev\obj\Debug\Zaycev.SearchForm.resources
+E:\Документы\Zaycev\obj\Debug\Zaycev.SearchForm11.resources
+E:\Документы\Zaycev\obj\Debug\Zaycev.SearchForm12.resources
+E:\Документы\Zaycev\obj\Debug\Zaycev.SearchForm13.resources
+E:\Документы\Zaycev\obj\Debug\Zaycev.SearchForm3.resources
+E:\Документы\Zaycev\obj\Debug\Zaycev.SearchForm4.resources
+E:\Документы\Zaycev\obj\Debug\Zaycev.SearchForm6.resources
+E:\Документы\Zaycev\obj\Debug\Zaycev.SearchForm7.resources
+E:\Документы\Zaycev\obj\Debug\Zaycev.SearchForm8.resources
+E:\Документы\Zaycev\obj\Debug\Zaycev.SearchForm9.resources
+E:\Документы\Zaycev\obj\Debug\Zaycev.csproj.GenerateResource.cache
+E:\Документы\Zaycev\obj\Debug\Zaycev.csproj.CoreCompileInputs.cache
+E:\Документы\Zaycev\obj\Debug\Zaycev.exe
+E:\Документы\Zaycev\obj\Debug\Zaycev.pdb
+E:\Документы\Zaycev\obj\Debug\Zaycev.SearchForm14.resources
+E:\Документы\Zaycev\obj\Debug\Zaycev.AddForm15.resources
+E:\Документы\Zaycev\obj\Debug\Zaycev.SearchForm16.resources
+C:\Users\Студент МПТ\Desktop\Zaycev\bin\Debug\zayDB.mdb
+C:\Users\Студент МПТ\Desktop\Zaycev\bin\Debug\zayDBDataSet.Designer.cs
+C:\Users\Студент МПТ\Desktop\Zaycev\bin\Debug\zayDBDataSet.xsc
+C:\Users\Студент МПТ\Desktop\Zaycev\bin\Debug\zayDBDataSet.xsd
+C:\Users\Студент МПТ\Desktop\Zaycev\bin\Debug\zayDBDataSet.xss
+C:\Users\Студент МПТ\Desktop\Zaycev\bin\Debug\Zaycev.exe.config
+C:\Users\Студент МПТ\Desktop\Zaycev\bin\Debug\Zaycev.exe
+C:\Users\Студент МПТ\Desktop\Zaycev\bin\Debug\Zaycev.pdb
+C:\Users\Студент МПТ\Desktop\Zaycev\obj\Debug\Zaycev.csprojAssemblyReference.cache
+C:\Users\Студент МПТ\Desktop\Zaycev\obj\Debug\Zaycev.AddForm.resources
+C:\Users\Студент МПТ\Desktop\Zaycev\obj\Debug\Zaycev.Addform11.resources
+C:\Users\Студент МПТ\Desktop\Zaycev\obj\Debug\Zaycev.AddForm12.resources
+C:\Users\Студент МПТ\Desktop\Zaycev\obj\Debug\Zaycev.AddForm13.resources
+C:\Users\Студент МПТ\Desktop\Zaycev\obj\Debug\Zaycev.AddForm14.resources
+C:\Users\Студент МПТ\Desktop\Zaycev\obj\Debug\Zaycev.AddForm15.resources
+C:\Users\Студент МПТ\Desktop\Zaycev\obj\Debug\Zaycev.AddForm3.resources
+C:\Users\Студент МПТ\Desktop\Zaycev\obj\Debug\Zaycev.AddForm4.resources
+C:\Users\Студент МПТ\Desktop\Zaycev\obj\Debug\Zaycev.AddForm6.resources
+C:\Users\Студент МПТ\Desktop\Zaycev\obj\Debug\Zaycev.AddForm7.resources
+C:\Users\Студент МПТ\Desktop\Zaycev\obj\Debug\Zaycev.AddForm8.resources
+C:\Users\Студент МПТ\Desktop\Zaycev\obj\Debug\Zaycev.AddForm9.resources
+C:\Users\Студент МПТ\Desktop\Zaycev\obj\Debug\Zaycev.Form1.resources
+C:\Users\Студент МПТ\Desktop\Zaycev\obj\Debug\Zaycev.Form2.resources
+C:\Users\Студент МПТ\Desktop\Zaycev\obj\Debug\Zaycev.Form4.resources
+C:\Users\Студент МПТ\Desktop\Zaycev\obj\Debug\Zaycev.Form5.resources
+C:\Users\Студент МПТ\Desktop\Zaycev\obj\Debug\Zaycev.Form6.resources
+C:\Users\Студент МПТ\Desktop\Zaycev\obj\Debug\Zaycev.Form7.resources
+C:\Users\Студент МПТ\Desktop\Zaycev\obj\Debug\Zaycev.Form9.resources
+C:\Users\Студент МПТ\Desktop\Zaycev\obj\Debug\Zaycev.Properties.Resources.resources
+C:\Users\Студент МПТ\Desktop\Zaycev\obj\Debug\Zaycev.SearchForm.resources
+C:\Users\Студент МПТ\Desktop\Zaycev\obj\Debug\Zaycev.SearchForm11.resources
+C:\Users\Студент МПТ\Desktop\Zaycev\obj\Debug\Zaycev.SearchForm12.resources
+C:\Users\Студент МПТ\Desktop\Zaycev\obj\Debug\Zaycev.SearchForm13.resources
+C:\Users\Студент МПТ\Desktop\Zaycev\obj\Debug\Zaycev.SearchForm14.resources
+C:\Users\Студент МПТ\Desktop\Zaycev\obj\Debug\Zaycev.SearchForm16.resources
+C:\Users\Студент МПТ\Desktop\Zaycev\obj\Debug\Zaycev.SearchForm3.resources
+C:\Users\Студент МПТ\Desktop\Zaycev\obj\Debug\Zaycev.SearchForm4.resources
+C:\Users\Студент МПТ\Desktop\Zaycev\obj\Debug\Zaycev.SearchForm6.resources
+C:\Users\Студент МПТ\Desktop\Zaycev\obj\Debug\Zaycev.SearchForm7.resources
+C:\Users\Студент МПТ\Desktop\Zaycev\obj\Debug\Zaycev.SearchForm8.resources
+C:\Users\Студент МПТ\Desktop\Zaycev\obj\Debug\Zaycev.SearchForm9.resources
+C:\Users\Студент МПТ\Desktop\Zaycev\obj\Debug\Zaycev.csproj.GenerateResource.cache
+C:\Users\Студент МПТ\Desktop\Zaycev\obj\Debug\Zaycev.csproj.CoreCompileInputs.cache
+C:\Users\Студент МПТ\Desktop\Zaycev\obj\Debug\Zaycev.exe
+C:\Users\Студент МПТ\Desktop\Zaycev\obj\Debug\Zaycev.pdb
